@@ -8,3 +8,5 @@
 6. <a href="https://safebrowsing.google.com/safebrowsing/report_badware/">Send report malicious to Google</a>
 7. <a href="https://safebrowsing.google.com/safebrowsing/report_phish/">Send report phisihing to Google</a>
 8. <a href="https://www.google.com/webmasters/tools/legal-removal-request?complaint_type=14">Legal Removal Request</a>
+
+<a href="https://support.google.com/webmasters/topic/9164606">About how delete info from Google</a>
