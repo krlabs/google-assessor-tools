@@ -1,4 +1,4 @@
-# Google Inspection Search Engine/Complaint Tools
+# ❗Google Inspection Search Engine. Complaint Tools❗
 
 1. <a href="https://search.google.com/search-console/remove-outdated-content">Remove broken, outdated, non-relevant content from SERP</a>
 2. <a href="https://support.google.com/legal/troubleshooter/1114905">Legal Removals</a>
